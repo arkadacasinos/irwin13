@@ -27,6 +27,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="d7d9401a39da9a9c" />
         <link rel="canonical" href="https://irwin13.vercel.app/" />
         <meta name="theme-color" content="#0b1424" />
         <meta name="format-detection" content="telephone=no" />
